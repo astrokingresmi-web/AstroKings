@@ -1,0 +1,25 @@
+{
+  "name": "AstroKing - Uzayın Hakimi",
+  "short_name": "AstroKing",
+  "description": "AstroKing oyun topluluğu - Turnuvalar, etkinlikler ve özel oyunlar.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030616",
+  "theme_color": "#4facfe",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
